@@ -1,0 +1,246 @@
+_ is an independent test performed by end users prior to accepting the delivered system,User acceptance testing
+_ a quality system standard is a three-part continuous cycle of planning controlling and documenting quality in an organization,ISO 9000
+_ addresses how well a product or service performs the customers intended use,Performance
+_ addresses the ease of performing maintenance on a product,Maintainability
+_ analysis simulates a model’s outcome many times to provide a statistical distribution of the calculated results,Monte Carlo
+_ applies to positive risks when the project team cannot or chooses not to take any actions toward a risk,Risk acceptance
+_ are predefined actions that the project team will take if an identified risk event occurs,Contingency plans
+_ are the system’s special characteristics that appeal to users,Features
+_ are those costs that are difficult to measure in monetary terms,Intangible costs
+_ are unplanned responses to risk events used when project teams do not have contingency plans in place,Workarounds
+_ are/is a qualitative risk analysis tool that maintains an awareness of risks throughout the life of a project in addition to identifying risks,Top Ten Risk Item Tracking
+_ corrects or prevents further quality problems based on quality control measurements,Process adjustments
+_ dependencies are sometimes referred to as soft logic and should be used with care because they may limit later scheduling options,Discretionary
+_ generates ideas for quality improvements by comparing specific project practices or product characteristics to those of other projects or products within or outside the performing organization,Benchmarking
+_ help users to identify the vital few contributors that account for most quality problems in a system,Pareto charts
+_ helps develop an accurate projection of a project’s financial expenses and benefits,Life cycle costing
+_ helps integrate traditionally separate organizational functions set process improvement goals and priorities provide guidance for quality processes and provide a point of reference for appraising current processes,CMMI
+_ includes the processes required to ensure that a project team completes a project within an approved budget,Project cost management
+_ involves allocating ownership of the risk to another party,Risk sharing
+_ involves allocating the overall cost estimate to individual work items to establish a baseline for measuring performance,Determining the budget
+_ involves changing the size of the opportunity by identifying and maximizing key drivers of the positive risk,Risk enhancement
+_ involves choosing part of a population of interest for inspection,Statistical sampling
+_ involves deciding how to approach and plan the risk management activities for the project,Planning risk management
+_ involves determining which risks are likely to affect a project and documenting the characteristics of each,Identifying risks
+_ involves doing whatever you can to make sure the positive risk happens,Risk exploitation
+_ involves eliminating a specific threat usually by eliminating its causes,Risk avoidance
+_ involves monitoring identified and residual risks identifying new risks carrying out risk response plans and evaluating the effectiveness of risk strategies throughout the life of the project,Controlling risk
+_ involves numerically estimating the effects of risks on project objectives,Performing quantitative risk analysis
+_ involves prioritizing risks based on their probability and impact of occurrence,Performing qualitative risk analysis
+_ involves reducing the impact of a risk event by reducing the probability of its occurrence,Risk mitigation
+_ involves shifting the consequence of a risk and responsibility for its management to a third party,Risk transference
+_ involves taking steps to enhance opportunities and reduce threats to meeting project objectives,Planning risk responses
+_ is a cost that relates to all errors not detected and not corrected before delivery to the customer,External failure cost
+_ is a fact-finding technique that can be used for collecting information in face-to-face phone e-mail or instant-messaging discussions,Interviewing
+_ is a method for determining the estimated annual costs and benefits for a project,Cash flow analysis
+_ is a technique that helps identify which variables have the most influence on the overall outcome of a process,Design of experiments
+_ is the ability of a product or service to perform as expected under normal conditions,Reliability
+_ is the amount of time an activity can be delayed from its early start without delaying the planned project finish date,Total slack
+_ is the cost of evaluating processes and their outputs to ensure that a project is error-free or within an acceptable error range,Appraisal cost
+_ is the degree to which a system performs its intended function,Functionality
+_ means that a product can be used as it was intended,Fitness for use
+_ means the project’s processes and products meet written specifications,Conformance to requirements
+_ provides a standard format for displaying project schedule information by listing project activities and their corresponding start and finish dates in a calendar format,Gantt charts
+_ refers to action taken to bring rejected items into compliance with product requirements or specifications or other stakeholder expectations,Rework
+_ risks refer to those that are direct results of implementing risk responses,Secondary
+_ states that work expands to fill the time allowed,Parkinson’s Law
+_ uses project characteristics in a mathematical model to estimate project costs,Parametric estimating
+_ wrote Quality Is Free in 1979 and is best known for suggesting that organizations strive for zero defects,Crosby
+A _ is a bell-shaped curve that is symmetrical regarding the average value of the population the data being analyzed,normal distribution
+A _ estimate is used for making many purchasing decisions for which accurate estimates are required and for estimating final project costs,definitive
+A _ is a graphic display of data that illustrates the results of a process over time,control chart
+A _ is a graphic display of data that illustrates the results of a process over time,project management plan update
+A _ is a standard of measurement in quality management,metric
+A _ is a technique used to show the effects of changing one or more variables on an outcome,sensitivity analysis
+A _ person achieves a balance between risk and payoff,risk-neutral
+A backward pass through the network diagram determines the early start and early finish dates for each activity,FALSE
+A budgetary estimate is the most accurate of the three types of estimates,FALSE
+A cost estimation tool which involves estimating individual work items or activities and summing them to get a project total is known as an _ estimate,bottom-up
+A cost estimation tool which is used to allocate money into an organization’s budget is known as a _ estimate,budgetary
+A cost management plan can include organizational procedures links control thresholds and process descriptions,TRUE
+A dependency pertains to the sequencing of project activities or tasks,TRUE
+A difference between the Program Evaluation and Review Technique PERT and critical path method CPM is that,PERT uses different duration estimates whereas CPM uses one specific duration estimate
+A disadvantage of using Gantt charts is that they do not provide a standard format for displaying planned project schedule information,FALSE
+A draft schedule for a project is most likely to be found in a _,project charter
+A drawback of the precedence diagramming method is that it cannot be used unless dummy activities are employed,FALSE
+A drawback of the project management software is that it does not have the capacity to calculate the critical paths for a project,FALSE
+A merge occurs when one node precedes mutiple nodes,FALSE
+A negative schedule variance means that it took lesser than planned to perform the work,FALSE
+A network diagramming technique in which boxes represent activities is known as an _,PDM
+A probability/impact matrix or chart lists the relative probability of a risk occurring on one side of a matrix or axis on a chart and the relative impact of the risk occurring on the other,TRUE
+A risk-seeking person prefers outcomes that are more uncertain and is often willing to pay a penalty to take risks,TRUE
+A rough order of magnitude estimate can be referred to as a _ estimate,ballpark
+A run chart is a bar graph that depicts data points and their order of occurrence,FALSE
+A schedule management plan includes information which describes the format and frequency of schedule reports required for the project,TRUE
+A schedule performance index of one means that the project is on schedule,TRUE
+A similarity between the crashing technique and the fast tracking technique is that,both can shorten the time needed to finish a project
+A Tracking Gantt chart is based on the percentage of work completed for project tasks or the actual start and finish dates,TRUE
+After defining project activities the next step in project time management is developing the schedule,FALSE
+After working with key stakeholders to define activities and calculate their resources the next process in project time management is to,estimate the duration of activities
+An _ is a diagramming analysis technique used to help select the best course of action in situations in which future outcomes are uncertain,decision tree
+An _ is any instance where the product or service fails to meet customer requirements,defect
+An _ is done to test each individual component often a program to ensure that it is as defect-free as possible,unit test
+An _ on a project is a significant event that normally has no duration,milestone
+An _ represents decision problems by displaying essential elements including decisions uncertainties causality and objectives and how they influence each other,influence diagram
+An activity is an element of work that has an expected duration cost and resource requirements,TRUE
+An important tool used in the _ phase of the DMAIC process is the fishbone or Ishikawa diagram,analyze
+Analogous estimates are also known as _ estimates	,top-down
+Analogous estimates are called activity-based costing,FALSE
+Analogous estimates are the most accurate technique to estimate costs,FALSE
+AOA network diagrams use only _ dependencies,finish-to-start
+Brainstorming is a systematic interactive forecasting procedure based on independent and anonymous input regarding future events,FALSE
+Budgetary estimates are made even before a project is officially started,FALSE
+Contingency plans are predefined actions that the project team will take if an identified risk event occurs,TRUE
+Contingency reserves are also known as unknown unknowns,FALSE
+Cost variance is,the earned value minus the actual cost
+Critical chain scheduling assumes that resources multitask and maximizes multitasking,FALSE
+Critical chain scheduling protects tasks on the critical chain from being delayed by using _ which consist of additional time added before tasks on the critical chain that are preceded by non-critical-path tasks,feeding buffers
+Customer requirements are an important aspect of the quality planning process,FALSE
+Definitive estimates are made one year or less prior to project completion,TRUE
+DeMarco and Lister’s study on organizations and productivity found direct correlations between productivity and programming language years of experience and salary,FALSE
+Determining the budget involves allocating the project cost estimate to individual work items over time,TRUE
+Estimates should become more accurate as time progresses,TRUE
+External failure cost,TRUE
+Frameworks for helping organizations improve their processes and system are called Six Sigma charts​,FALSE
+Gantt charts cannot be used to aid project quality management,FALSE
+Good Earth a company manufacturing packaged food products sets up its stores in Baltonia However a year later the company closes the store down due to high operating costs In such a scenario the money spent in paying for the rent of the store in Baltonia would be an example of _ costs,sunk
+Identified risks may not materialize or their probabilities of occurrence or loss may diminish,TRUE
+Identifying risks is a subprocess of the _ process of project risk management,planning
+If an important supplier goes out of business management reserves can be set aside to cover the resulting costs,TRUE
+If cost variance is a positive number it means that performing the work costs more than planned,FALSE
+If the cost estimate for a project is a basis for contract awards and performance reporting it should be an _ estimate and as accurate as possible,definitive
+If the cost performance index CPI is less than 100 percent the project is under budget,FALSE
+Important tools used in the _ phase of the DMAIC process include a project charter a description of customer requirements process maps and Voice of the Customer VOC data,define
+In a bottom-up estimate the size of the individual work items is one of the factors that drives the accuracy of the estimates,TRUE
+In a critical path analysis the shortest path is what drives the completion date for the project,FALSE
+In a Gantt chart thick black bars represent milestones achieved in a project,FALSE
+In a network diagram it is mandatory for every item on the WBS to be shown instead of only those activities with dependencies,FALSE
+In an AOA network diagram _ occur when two or more activities follow a single node,bursts
+In an earned value chart when the actual cost line is right on or above the earned value line it indicates that costs are less than planned,FALSE
+In project procurement management which of the following is an output of the executing process?,Resource calendars
+In project time management an _ is an output of controlling the schedule,project management plan update
+In project time management one should control the schedule before estimating the duration for each activity,FALSE
+In project time management the main goal of _ is to ensure that the project team has complete understanding of all the work they must do as part of the project scope so they can start scheduling the work,defining activities
+In project time management the next step after defining project activities is,determining their dependencies
+In project time management the next step after sequencing activities is to define these activities,FALSE
+In project time management the primary output of defining activities is a schedule management plan,FALSE
+In project time management the process of_ primarily involves checking and managing changes to the project schedule,controlling the schedule
+In project time management the ultimate goal of _ is to provide a basis for monitoring project progress for the time dimension of the project,developing a schedule
+In project time management which of the following processes generate the main outputs of an activity list activity attributes and a milestone list?,Defining activities
+In project time management which of the following processes involve analyzing activity sequences activity resource estimates and activity duration estimates to create the project schedule?,Developing the schedule
+In project time management which of the following processes involve calculating the number of work periods that are needed to complete individual activities?,Estimating activity durations
+In project time management which of the following processes primarily involve identifying and documenting the relationships between project activities?,Sequencing activities
+In TQC product quality is more important than production rates and workers are allowed to stop production whenever a quality problem occurs,TRUE
+Indirect costs are,not directly related to the products or services of a project
+Intangible costs can be easily measured in monetary terms,FALSE
+Integration testing involves testing of each individual component to ensure that it is as defect-free as possible,FALSE
+It is important for project managers to focus on indirect costs because they can be easily controlled,FALSE
+It is important for project managers to understand that every cost estimate is unique,TRUE
+It is important for the activity list and activity attributes to be in agreement with the work breakdown structure,TRUE
+IT project managers must be able to present and discuss project information both in financial and technical terms,TRUE
+Knowing the amount of float allows project managers to know whether a project schedule is flexible,TRUE
+Milestones are easy to achieve and are always achieved through one main activity,FALSE
+Network diagrams are the preferred technique for showing activity sequencing,TRUE
+Newtech Inc hires John for the position of a software programmer to work on their new project Salary paid to John by Newtech Inc would be an example of _ costs,direct
+One of Juran’s ten steps to quality improvement states that,an organization should build awareness of the need and opportunity for improvement
+One of PERT’s main disadvantages is that it does not address the risk associated with duration estimates,FALSE
+One of the main outputs of the _ process is a cost baseline,cost budgeting
+One of the reasons why project cost estimates are inaccurate is because human beings are biased toward underestimation,TRUE
+One possible response to managing negative risk it to accept the potential effects from the risk,TRUE
+Only in-house auditors can perform quality audits,FALSE
+Overrun is the additional percentage amount by which estimates exceed actual costs,FALSE
+Parametric models are reliable when the models are flexible in terms of the projects size,TRUE
+Performing qualitative and quantitative risk analyses are subprocesses of the _ process of project risk management,planning
+Performing quality assurance is a subprocess of the _ process of project quality management,executing
+Potential problems that might occur on the project and how they might impede project success are _ risks,negative
+Process improvement plan quality metrics and quality checklists are the outputs of the _ process of project quality management,planning quality management
+Products that are accepted by project stakeholders are considered to be validated deliverables,TRUE
+Profits may be defined as,revenues minus expenditures
+Project managers are ultimately responsible for quality management on their projects,TRUE
+Project managers must conduct cash flow analysis to determine net present value,TRUE
+Project schedules grow out of basic documents such as the project charter,TRUE
+Projects that use Six Sigma principles for quality control normally follow a five-phase improvement process called _,DMAIC
+Quantitative risk analysis need not be done for projects that are large and complex,TRUE
+Reliability is the ability of a product or service to perform as expected under deviant conditions,FALSE
+Risk events refer to specific certain events that may occur to the detriment or enhancement of the project,FALSE
+Risk utility rises at a decreasing rate for a _ person,risk-averse
+Risks can have both negative and positive effects on meeting project objectives,TRUE
+Schedule variance is,the earned value minus the planned value
+Six Sigmas target for perfection is the achievement of no more than _ defects errors or mistakes per million opportunities,34
+Soles is a footwear company which has recently set up its store in Ambrosia To manufacture its products Soles incurs a range of different costs Which of the following would be an example of an indirect cost?,Electricity used to run its factories
+Spreadsheets are a common tool for cost estimating cost budgeting and cost control,TRUE
+Start-to-finish relationships are the most frequently used dependencies between activities,FALSE
+Supporting details for an estimate include the ground rules and assumptions used in creating the estimate,TRUE
+Testing as a stage is important only at the end of an information technology product development,FALSE
+The _ for an activity is the latest possible time an activity might begin without delaying the project finish date,late start date
+The _ is a measure of quality control equal to 1 fault in 1 million opportunities problems,six 9s of quality rule
+The _ lists the relative probability of a risk occurring and the relative impact of the risk occurring,probability/impact matrix
+The _ process is often associated with the technical tools and techniques of quality management such as Pareto charts quality control charts and statistical sampling,quality control
+The amount of time an activity can be delayed without delaying the early start date of any immediately following activities is known as a _,free slack
+The arrows in a network diagram represent missed milestones in a project,FALSE
+The budget is one of the three values of earned value management and is also known as _,planned value
+The cost performance index CPI,can be used to estimate the projected cost of completing the project
+The critical path is the _ path through a network diagram and it represents the _ amount of slack or float,longest; shortest
+The critical path on a project can change as the project progresses,TRUE
+The degree of uncertainty an entity is willing to take on in anticipation of a reward is,risk appetite
+The Delphi technique is a systematic interactive forecasting procedure based on independent and anonymous input regarding future events,TRUE
+The design of experiments technique cannot be applied to project management issues such as cost and schedule trade-offs,FALSE
+The final process in project time management is developing the schedule,FALSE
+The first process involved in project time management is _ ,planning schedule management
+The first step in project cost management is,to plan how costs will be managed
+The formulas for variances and indexes start with EV the earned value,TRUE
+The last step in project risk management is deciding how to address this knowledge area for a particular project by performing risk management planning,FALSE
+The lower the earned monetary value calculation for a project the chances of project success is higher,FALSE
+The main disadvantage of crashing is that it lengthens the time needed to finish a project,FALSE
+The main goal of the _ process is to produce a cost baseline for measuring project performance and project funding requirements,cost budgeting
+The Microsoft Solution Framework MSF includes a risk management model that includes developing and monitoring a top-ten master list of risks,TRUE
+The Monte Carlo analysis can predict the probability of finishing by a certain date or the probability that the cost will be equal to or less than a certain value,TRUE
+The primary output of the planning cost management process is a change request,FALSE
+The process of controlling costs primarily involves,managing changes to the project budget
+The project management plan and project funding requirements are inputs of the process of controlling costs,TRUE
+The psychology literature shows that individuals working alone produce fewer ideas than the same individuals produce through brainstorming in small face-to-face groups,FALSE
+The quality assurance process involves taking responsibility for quality throughout the project’s life cycle,TRUE
+The risk register can be created with a simple Microsoft Word or Excel file,TRUE
+The Six Sigma approach works best for a project where a quality problem is identified between the current and desired performance,TRUE
+The technique for making cost and schedule trade-offs to obtain the greatest amount of schedule compression for the least incremental cost is known as _,crashing
+The technique of fast tracking can result in lengthening the project schedule,TRUE
+The term sigma means median,FALSE
+Those who are _ have a higher tolerance for risk and their satisfaction increases when more payoff is at stake,risk-seeking
+To define activities the project team should start with reviewing the schedule management plan scope baseline enterprise environmental factors and organizational processes,TRUE
+Top Ten Risk Item Tracking is a quantitative risk analysis tool,FALSE
+Unenforceable conditions or contract clauses and adversarial relations are risk conditions associated with the project _ management knowledge area,procurement
+Unknown risks can be managed proactively,FALSE
+Using Six Sigma principles is an organization-wide commitment and all employees must embrace its principles,TRUE
+Validated changes and validated deliverables are the outputs of the _ subprocess of project quality management,monitoring and controlling
+Validated changes and validated deliverables are the outputs of the quality assurance process,FALSE
+Variances are calculated by subtracting the actual cost from _,earned value
+What is the first step in a Monte Carlo analysis?,Assess the range for the variables being considered
+When deciding what projects to invest in or continue one should include sunk costs,FALSE
+Which of the following dependencies involve relationships between project and non-project activities?,External
+Which of the following documents is most likely to include planned project start and end dates which serve as the starting points for a detailed schedule?,Project charter
+Which of the following involves developing an approximation of the costs of resources needed to complete a project?,Estimating costs
+Which of the following is a difference between an activity list and an activity attribute?,An activity attribute provides more schedule-related information about each activity than an activity list
+Which of the following is a network diagramming technique used primarily to predict total project duration?,Critical path analysis
+Which of the following is a relationship in which the “from” activity cannot start until the “to” activity is started?,Start-to-start
+Which of the following is a silimarity between scope control and schedule control?,Both are portions of the integrated change control process under project integration management
+Which of the following is an input of the process of controlling costs?,Work performance data
+Which of the following is an output of schedule control?,Lessons-learned reports
+Which of the following is an output of the process of controlling costs?,Cost forecasts
+Which of the following is most likely to be a reason for inaccuracies in information technology cost estimates?,People lack estimating experience
+Which of the following is one of Deming’s 14 Points for Management?,Eliminate the annual rating or merit system
+Which of the following is one of the main outputs of estimating activity resources process?,Project documents update
+Which of the following is true of a finsih-to-finish dependency?,It is a dependency in which the “from” activity must be finished before the “to” activity can be finished
+Which of the following is true of a rough order of magnitude estimate?,It provides an estimate of what a project will cost
+Which of the following is true of analogous estimates?,They are most reliable when previous projects are similar in fact with current projects
+Which of the following is true of bottom-up estimates?,They are time-intensive and expensive to develop
+Which of the following is true of contingency reserves?,They allow for future situations that can be partially planned for
+Which of the following is true of dummy activities?,They show logical relationships between activities
+Which of the following is true of earned value?,It is an estimate of the value of the physical work actually completed
+Which of the following is true of tangible costs?,They can be easily measured
+Which of the following is true of the schedule performance index SPI?,It can be used to estimate the projected time to complete the project
+Which of the following processes in project time management involves identifying the specific tasks that the project team members and stakeholders must perform to produce the project deliverables?,Defining activities
+Which of the following reserves allows for future situations that are unpredictable?,Management reserves
+Which of the following techniques involve doing activities in parallel that one would normally do in sequence?,Fast tracking
+Which of the following types of dependencies are inherent in the nature of work being performed on a project?,Mandatory
+Which of the following types of estimate use the actual cost of a previous similar project as the basis for estimating the cost of the current project?,Analogous estimates
+Work performance information and cost forecasts are main outputs of the _ process,cost control
