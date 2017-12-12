@@ -53,14 +53,34 @@ def list_common_pair_words(questions):
     
 # remove all common pairs that repeat because more than one question must have them
 def filter_common_pair_words(common_pairs):
-    return [common_pair for common_pair in common_pairs if common_pairs[common_pair] == 1]
+    # edge case if [1,2] and [2,1] exist delete them all
+    unique_pairs =  [common_pair for common_pair in common_pairs if common_pairs[common_pair] == 1]
+    # print(len(unique_pairs))    
+    # temp_pairs = list(unique_pairs)
+    # for ai,pair_a in enumerate(temp_pairs):
+    #     for bi,pair_b in enumerate(temp_pairs):
+    #         # if the reversed tuple is equal to another tuple
+    #         if ai==bi:
+    #             continue
+    #         # print("Comparing:",pair_a[::-1],pair_b)
+    #         if pair_a[::-1] == pair_b:
+    #             unique_pairs.remove(pair_b)
+    # print(len(unique_pairs))
+    # exit()
+    return unique_pairs
+                
+
 
 def assign_describing_words_to_non_unique_questions(questions,unique_pairs):
-    for unique_pair in unique_pairs:
-        for question in questions:
+    temp_pairs = list(unique_pairs)
+    for question in questions:
+        for unique_pair in unique_pairs:
             if len(question.unique_words) == 0:
                 if unique_pair[0] in question.words and unique_pair[1] in question.words:
-                    question.describing_words.append(unique_pair)
+                    if unique_pair in temp_pairs:
+                        question.describing_words.append(unique_pair)
+                        temp_pairs.remove(unique_pair)
+                        break
 
 def assign_unique_describing_word_to_questions(questions):
     for question in questions:
@@ -98,6 +118,11 @@ def count_all_question_words(questions,words):
         word_count += words[word]
     return common,unique,word_count
 
+def print_question_results(questions):
+    for question in questions:
+        print(question.describing_words,question.answer,question.question)
+        print()
+
 def main():
     with open('questions.csv','r',encoding='utf-8') as file:
         csv_text = file.read().replace('?','').replace("'",'').replace('/',' or ')
@@ -113,6 +138,7 @@ def main():
     assign_describing_words_to_non_unique_questions(questions,unique_pairs)
     assign_unique_describing_word_to_questions(questions)
     count_questions_without_describing_words(questions)
+    print_question_results(questions)
 
 if __name__ == '__main__':
     main()
