@@ -53,8 +53,8 @@ def list_common_pair_words(questions):
     
 # remove all common pairs that repeat because more than one question must have them
 def filter_common_pair_words(common_pairs):
-    # edge case if [1,2] and [2,1] exist delete them all
     unique_pairs =  [common_pair for common_pair in common_pairs if common_pairs[common_pair] == 1]
+    # edge case if [1,2] and [2,1] exist delete them all    
     # print(len(unique_pairs))    
     # temp_pairs = list(unique_pairs)
     # for ai,pair_a in enumerate(temp_pairs):
@@ -78,7 +78,8 @@ def assign_describing_words_to_non_unique_questions(questions,unique_pairs):
             if len(question.unique_words) == 0:
                 if unique_pair[0] in question.words and unique_pair[1] in question.words:
                     if unique_pair in temp_pairs:
-                        question.describing_words.append(unique_pair)
+                        question.describing_words.append(unique_pair[0])
+                        question.describing_words.append(unique_pair[1])
                         temp_pairs.remove(unique_pair)
                         break
 
@@ -119,9 +120,9 @@ def count_all_question_words(questions,words):
     return common,unique,word_count
 
 def print_question_results(questions):
-    for question in questions:
-        print(question.describing_words,question.answer,question.question)
-        print()
+    with open('results.csv','w',encoding='utf8') as file:
+        for question in questions:
+            file.write(("{0},{1},{2}\n".format(' '.join(question.describing_words),question.answer,question.question)))
 
 def main():
     with open('questions.csv','r',encoding='utf-8') as file:
